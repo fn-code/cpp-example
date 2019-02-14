@@ -1,2 +1,2 @@
-# cpp-example
-# cpp-example
+# c++ example code
+
